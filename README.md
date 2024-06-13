@@ -11,12 +11,14 @@ PDF Chat: Engage in a conversation directly through a PDF document, fostering a 
 **Requirements**
 
 To run Gemini Chat, you'll need to install the given dependencies using command:
-`pip install -r requirements.txt`
+```
+pip install -r requirements.txt
+```
 
 **Usage**
 
 You can run the application using the command:
-`streamlit run main.py`
+```streamlit run main.py```
 
 This will launch the Gemini Chat application using Streamlit. You can then access it in your web browser.
 
